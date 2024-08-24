@@ -1,0 +1,19 @@
+using System;
+
+class Program
+{
+    class Program
+    {
+       static void Main(strin[] args)
+       {
+        Console.WriteLine("informe a classe do personahegm, guerreiro, arqueiro, mago: ")
+        string classe = Console.ReadLine()
+
+        Console.WriteLine("infroe o valor de defessa da armadura: ")
+       int defesa = int.TryParse(Console.ReadLine());
+        Console.WriteLine (" infiorme a penalidade de agiliade: ")
+        int.TryParse (Console.ReadLine());
+         
+       }
+    }
+ }
