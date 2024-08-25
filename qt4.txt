@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        console.Write("digite a quantidade de mana dos jogadores")
+        int mana = int.parse(Console.ReadLine());
+        if mana > 30 && vidainimigo < 50 && nivel > 5 
+        Console.WriteLine("o jogador nao deve realizar o ataque especiais")
+        console.WriteLine
+        else
+        Console.WriteLine("o joagdor nao deve realizar o ataque especial")
+    }
+}

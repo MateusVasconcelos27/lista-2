@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("digite a classe do jogador (guerreiro/mago/paladino): ")
+        string classe = Console.ReadLine().ToLower();
+        Console.WriteLine("digite o tipo de poção (vida/mana/resistencia): ")
+        string tipoPocao = Console.ReadLine().ToLower
+        Console.WriteLine("digite a quantidade que deseja comprar: ")
+        
+
+    }
+}

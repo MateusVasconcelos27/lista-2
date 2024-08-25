@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("digite o numero de inimigos derrotados: ")
+        int.inimigosDerrotados = int.Parse(Console.ReadLine());
+        Console.Write("O  jogador soofreu dano critico (sim/nao)")
+        string sofreuDanoCritico = Console.ReadLine().ToLower
+        int pontuaçao = inimigos derrotados
+        Console.WriteLine ("a pontuação final do jogador e: 7")
+        
+    }
+}
